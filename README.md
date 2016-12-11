@@ -1,4 +1,4 @@
-## TextPlayBulb
+# TextPlayBulb
 
 #This project is build on 3 modules :
 * pyBulbDriver : Connect to the PlayBulb via BLE gatttool and python.
